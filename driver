@@ -1,0 +1,23 @@
+#include  <89lp213.h>
+#define 
+
+
+void timer1 (void) interrupt 1 using 2
+{
+	
+	
+	
+	
+}
+
+
+void main()
+{
+	TMOD=0x01;
+	TH0=0x
+	TL0=0x
+	
+	if(button)
+	
+	
+	
