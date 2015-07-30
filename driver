@@ -1,5 +1,7 @@
 #include  <89lp213.h>
-#define 
+#define buton P1_1
+#define buton P1_2
+
 
 
 void timer1 (void) interrupt 1 using 2
