@@ -23,6 +23,9 @@ void main()
 	TF1;
 	
 	if(button)
+{
+	led=~led;
+	TR1=1;
 	
 	
-	
+}
