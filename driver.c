@@ -16,9 +16,11 @@ void timer1 (void) interrupt 1 using 2
 
 void main()
 {
-	TMOD=0x01;
-	TH0=0x
-	TL0=0x
+	TMOD=0x00;
+	TH1=0x00;
+	TL1=0x00;
+	TR1=0;
+	TF1;
 	
 	if(button)
 	
